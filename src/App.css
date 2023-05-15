@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+} 
+.app-text__bg{
+  background: hsla(24, 67%, 85%, 1);
+
+background: linear-gradient(270deg, hsla(24, 67%, 85%, 1) 0%, hsla(149, 30%, 60%, 1) 100%);
+
+background: -moz-linear-gradient(270deg, hsla(24, 67%, 85%, 1) 0%, hsla(149, 30%, 60%, 1) 100%);
+
+background: -webkit-linear-gradient(270deg, hsla(24, 67%, 85%, 1) 0%, hsla(149, 30%, 60%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F2D2BD", endColorstr="#7AB898", GradientType=1 );
+}

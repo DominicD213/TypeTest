@@ -1,0 +1,28 @@
+.navbar {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 5.5vh;
+    top:0;
+    left:0;
+    z-index: 9;
+    background-color: rgb(242, 210, 189);
+}
+h1{
+    padding-left: 1rem;
+    letter-spacing: 2px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    font-weight:bold;
+    padding-right: 2rem;
+}
+a:hover{
+    color:rgb(203, 195, 227);
+    text-decoration: underline;
+    
+}
+
